@@ -2,6 +2,8 @@
 
 Congratulations to the winners of The Enigma CTF challenge!
 
+### Challenge Started at : 27-09-2023 at 01:25PM
+
 ## The Champion (1st Winner)
 
 - **Dhairya Shah**
